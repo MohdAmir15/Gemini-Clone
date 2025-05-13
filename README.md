@@ -1,7 +1,7 @@
 This is a vite React JS project of Gemini clone.
 
 
-Currently done with the ai generative functionality function.
+Currently done with the ai generative functionality.
 
 
 Next phase would be pre loader.
