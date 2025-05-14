@@ -1,5 +1,3 @@
-This is a vite React JS project of Gemini clone.
-
 
 ## Note on API Key
 
